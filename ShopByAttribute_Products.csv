@@ -1,0 +1,7 @@
+﻿ProductID,King,Queen,Bay,Ocean,Elevator,Total
+XXXX,1,0,1,0,0,3
+YYYY,1,0,0,1,0,3
+ZZZZ,1,0,0,0,1,2
+AAAA,0,1,1,0,0,3
+BBBB,0,1,0,1,0,3
+CCCC,0,1,0,0,1,2
